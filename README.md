@@ -1,3 +1,3 @@
 # CLUI
 
-A description of this package.
+Draw boxes in the terminal.
